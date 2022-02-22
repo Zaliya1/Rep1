@@ -1,5 +1,5 @@
-import one from './modules/one.js';
+import timer from './modules/timer.js';
 import two from './modules/two';
 
-one();
+timer('24 february 2022');
 two();
